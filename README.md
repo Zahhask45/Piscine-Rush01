@@ -1,2 +1,3 @@
 # Piscine-Rusha01
-Banana
+To compile just do this:
+  cc -Werror -Wextra -Wall *.c
